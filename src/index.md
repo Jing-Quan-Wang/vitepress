@@ -31,10 +31,10 @@ hero:
 features:
   
   - title: Contact  
-    details: Email henrywang_scu@foxmail.com<br>my eyes
+    details: Email henrywang_scu@foxmail.com
 
   - title: Contact   
-    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a>  <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ResearchGate]
+    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a> <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ResearchGate]
 </a>
 
   - title: Feature C
