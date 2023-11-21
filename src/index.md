@@ -9,11 +9,7 @@ hero:
   
   name: 'Jing-Quan Wang'
 
-  text: 'Ph.D. candidate in Sichuan University'
-
-  tagline: My great project tagline
-
-
+  tagline: Ph.D. candidate in Sichuan University
 
   image: /img.jpg
   
@@ -36,7 +32,7 @@ features:
   
   - title: Contact
     
-    details: Emails
+    details: Emails:
 
   - title: Feature B
     
