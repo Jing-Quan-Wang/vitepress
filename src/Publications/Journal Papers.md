@@ -39,7 +39,7 @@
 ### 2020
 <br>
 
-<li>**J. Wang**, C. Wang, H. Guo*, T. Ye, Y. Liu, X. Cheng, W. Li, B. Yang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420302168" target="_blank">Crucial roles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies</a>. **_Journal of Hazardous Materials_**, 391, 5, 122228 (2020) </li>
+<li>**J. Wang**, C. Wang, H. Guo*, T. Ye, Y. Liu, X. Cheng, W. Li, B. Yang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420302168" target="_blank">Crucialroles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies</a>. **_Journal of Hazardous Materials_**, 391, 5, 122228 (2020) </li>
 
 
 <li>**J. Wang**, H. Guo*, Y. Liu, W. Li, B. Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="_blank">Peroxymonosulfate activation by porous BiFeO3 for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. **_Applied Surface Science_**, 507, 30, 145097 (2020) </li>
@@ -52,7 +52,7 @@
 
 <ol>
 
-###2022
+### 2022
 <br>
 <li>R. Li, **J. Wang**, H. Wu, Z. Zhu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="_blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. **_Separation and Purification Technology_**, 292, 1, 120928 (2022). </li>
 
@@ -62,7 +62,7 @@
 
 <li>J. Zhao, **J. Wang**, E. Du, Y. Ai, J. Liu, H. Guo*. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/ew/d2ew00322h" target="_blank">Water decontamination under high salinity using the TiO2 NT/PbO2-Cu electrochemical oxidation system: kinetics mechanism and DFT studies</a>. **_Environmental Science-Water Research & Technology_**, 8 (2022) 2231-2244. </li>
 
-###2021
+### 2021
 <br>
 <li>B. Yang, C. Wang, X. Cheng, Y. Zhang, W. Li, **J. Wang**, Z. Tian, W. Chu, G.V. Korshin, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135421005777" target="_blank">Interactions between the antibiotic tetracycline and humic acid: Examination of the binding sites, and effects of complexation on the oxidation of tetracycline</a>. **_Water Research_**, 202, 1, 117379 (2021). </li>
 
@@ -77,6 +77,30 @@
 
 
 <li>N. Wang, J. Zhang, Y. Zhang, P. Zhou, **J. Wang**, Y. Liu. <a href="https://www.sciencedirect.com/science/article/pii/S0045653520321457" target="_blank">Heterogeneous catalytic oxidation degradation of BPAF by peroxymonosulfate active with manganic manganous oxide: Mineralization, mechanism and degradation pathways</a>. **_Chemosphere_**, 263, 127950 (2021). </li>
+
+### 2020
+<br>
+<li>X. Cheng, H. Guo*, W. Li, B. Yang, **J. Wang**, Y. Zhang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S1385894720310998" target="_blank">Metal-free carbocatalysis for persulfate activation toward nonradical oxidation: Enhanced singlet oxygen generation based on active sites and electronic property</a>. **_Chemical Engineering Journal_**, 396, 15, 125107 (2020). </li>
+
+
+<li>W. Li, H. Guo*, C. Wang, Y. Zhang, X. Cheng, **J. Wang**, B. Yang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S138589472030601X" target="_blank">ROS reevaluation for degradation of 4-chloro-3,5-dimethylphenol (PCMX) by UV and UV/persulfate processes in the water: Kinetics, mechanism, DFT studies and toxicity evolution</a>. **_Chemical Engineering Journal_**, 390, 15, 124610 (2020). </li>
+
+
+<li>W. Li, Y. Zhang, P. Zhao, P. Zhou, Y. Liu, X. Cheng, **J. Wang**, B. Yang, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1385894720310998" target="_blank">Enhanced kinetic performance of peroxymonosulfate/ZVI system with the addition of copper ions: Reactivity, mechanism, and degradation pathways</a>. **_Journal of Hazardous Materials_**, 395, 5, 122399 (2020). </li>
+
+
+<li>B. Yang, W. Li, **J. Wang**, Z. Tian, X. Cheng, Y. Zhang, R. Qiu, S. Hou, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0048969720348828" target="_blank">Estimation of the potential spread risk of COVID-19: Occurrence assessment along the Yangtze, Han, and Fu River basins in Hubei, China</a>. **_Science of the Total Environment_**, 746, 1, 141353 (2020). </li>
+
+### 2019
+<br>
+<li>Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, J. Deng, **J. Wang**, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1385894718318035" target="_blank">Highly efficient removal of trimethoprim based on peroxymonosulfate activation by carbonized resin with Co doping: Performance, mechanism and degradation pathway</a>. **_Chemical Engineering Journal_**, 356, 15, 717-726 (2019) . </li>
+
+
+<li>Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, **J. Wang**, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S0269749119305974" target="_blank">Fe@C carbonized resin for peroxymonosulfate activation and bisphenol S degradation</a>. **_Environmental Pollution_**, 252, B, 1042-1050 (2019). </li>
+
+### 2018
+<br>
+<li>Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, G. Zhang, **J. Wang**, P. Tang, T. Ke, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="_blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe3O4 microspheres under visible light irradiation</a>. **_Separation and Purification Technology_**, 192, 9, 88-98 <ahref=¡°#2018">(2018)</a>. </li>
 
 
 
