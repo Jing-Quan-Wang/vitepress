@@ -7,7 +7,7 @@
 
 
 
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 ### 2023    
 <br>
 <li>**J. Wang**, M. Zheng, E. Du, W. Chu, H. Guo*. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.2c06327" target="_blank">A Novel Source of Radicals from UV/Dichloroisocyanurate for Surpassing Abatement of Emerging Contaminants Versus Conventional UV/Chlor(am)ine Processes</a>. **_Environmental Science & Technology_**, (2023).</li> 
@@ -43,7 +43,7 @@
 
 
 <li>**J. Wang**, H. Guo*, Y. Liu, W. Li, B. Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="_blank">Peroxymonosulfate activation by porous BiFeO3 for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. **_Applied Surface Science_**, 507, 30, 145097 (2020) </li>
-
+</p>
 </ol>
 
 
@@ -51,7 +51,7 @@
 ## Other authorships
 
 <ol>
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 ### 2022
 <br>
 <li>R. Li, **J. Wang**, H. Wu, Z. Zhu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="_blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. **_Separation and Purification Technology_**, 292, 1, 120928 (2022). </li>
@@ -103,5 +103,5 @@
 <li>Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, G. Zhang, **J. Wang**, P. Tang, T. Ke, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="_blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe3O4 microspheres under visible light irradiation</a>. **_Separation and Purification Technology_**, 192, 9, 88-98 (2018). </li>
 
 
-
+</p>
 </ol>   
