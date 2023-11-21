@@ -46,3 +46,38 @@
 
 </ol>
 
+
+
+## Other authorships
+
+<ol>
+
+###2022
+<br>
+<li>R. Li, **J. Wang**, H. Wu, Z. Zhu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="_blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. **_Separation and Purification Technology_**, 292, 1, 120928 (2022). </li>
+
+
+<li>W. Li, Y. Zhang, X. Cheng, **J. Wang**, B. Yang, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586621016737" target="_blank">Amino-modified metal-organic frameworks as peroxymonosulfate catalyst for bisphenol AF decontamination: ROS generation, degradation pathways, and toxicity evaluation</a>. **_Separation and Purification Technology_**, 282£¬A£¬1 (2022). </li>
+
+
+<li>J. Zhao, **J. Wang**, E. Du, Y. Ai, J. Liu, H. Guo*. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/ew/d2ew00322h" target="_blank">Water decontamination under high salinity using the TiO2 NT/PbO2-Cu electrochemical oxidation system: kinetics mechanism and DFT studies</a>. **_Environmental Science-Water Research & Technology_**, 8 (2022) 2231-2244. </li>
+
+###2021
+<br>
+<li>B. Yang, C. Wang, X. Cheng, Y. Zhang, W. Li, **J. Wang**, Z. Tian, W. Chu, G.V. Korshin, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135421005777" target="_blank">Interactions between the antibiotic tetracycline and humic acid: Examination of the binding sites, and effects of complexation on the oxidation of tetracycline</a>. **_Water Research_**, 202, 1, 117379 (2021). </li>
+
+
+<li>B. Yang, X. Cheng, Y. Zhang, W. Li, **J. Wang**, Z. Tian, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420328442" target="_blank">Staged assessment for the involving mechanism of humic acid on enhancing water decontamination using H2O2-Fe(III) process</a>. **_Journal of Hazardous Materials_**, 407, 5, 124853 (2021). </li>
+
+
+<li>B. Yang, X. Cheng, Y. Zhang, W. Li, **J. Wang**, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S2666498421000570" target="_blank">Probing the roles of pH and ionic strength on electrostatic binding of tetracycline by dissolved organic matters: Reevaluation of modified fitting model</a>. **_Environmental Science and Ecotechnology_**, 8, 100133 (2021). </li>
+
+
+<li>B. Yang, X. Cheng, Y. Zhang, W. Li, **J. Wang**, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S266649842100051X" target="_blank">Insight into the role of binding interaction in the transformation of tetracycline and toxicity distribution</a>. **_Environmental Science and Ecotechnology_**, 8, 100127 (2021). </li>
+
+
+<li>N. Wang, J. Zhang, Y. Zhang, P. Zhou, **J. Wang**, Y. Liu. <a href="https://www.sciencedirect.com/science/article/pii/S0045653520321457" target="_blank">Heterogeneous catalytic oxidation degradation of BPAF by peroxymonosulfate active with manganic manganous oxide: Mineralization, mechanism and degradation pathways</a>. **_Chemosphere_**, 263, 127950 (2021). </li>
+
+
+
+</ol>   
