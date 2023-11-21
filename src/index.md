@@ -1,3 +1,32 @@
+<div align="center">
+
+<table rules="none">
+
+<tr>
+
+<td>
+
+<p>Bio</p>
+
+<p>Bio</p>
+
+<p>Bio</p>
+
+</td>
+
+<td>
+
+<img src="/src/public/img.jpeg" style="zoom:50%"  alt="img"/>
+
+</td>
+
+</tr>
+
+</table>    
+
+</div>
+
+
 # Bio
 
 <br>
