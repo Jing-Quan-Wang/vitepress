@@ -6,6 +6,7 @@ hero:
   name: 'My Awesome Project'
   text: 'A VitePress Site'
   tagline: My great project tagline
+  image: /img.jpg
   # actions:
   #   - theme: brand
   #     text: Markdown Examples
