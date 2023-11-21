@@ -16,7 +16,7 @@
 
 <td>
 
-<img src="/src/public/img.jpeg" style="zoom:50%"  alt="img"/>
+<img src="/src/public/img.jpg" style="zoom:50%"  alt="img"/>
 
 </td>
 
