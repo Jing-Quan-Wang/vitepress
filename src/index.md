@@ -2,49 +2,49 @@
 
 
 # https://vitepress.dev/reference/default-theme-home-page
-
-
 layout: home
 
 
 hero:
   
-name: 'Jing-Quan Wang'
+  name: 'Jing-Quan Wang'
 
   text: 'Ph.D. candidate in Sichuan University'
 
   tagline: My great project tagline
 
 
+
   image: /img.jpg
   
-# actions:
+  # actions:
   
-#   - theme: brand
+  #   - theme: brand
   
-#     text: Markdown Examples
+  #     text: Markdown Examples
   
-#     link: /markdown-examples
+  #     link: /markdown-examples
   
-#   - theme: alt
+  #   - theme: alt
   
-#     text: API Examples
+  #     text: API Examples
   
-#     link: /api-examples
+  #     link: /api-examples
 
 
 features:
   
-- title: Contact
+  - title: Contact
     
-details: Emails
+    details: Emails
 
-- title: Feature B
+  - title: Feature B
     
-details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   
 
-- title: Feature C
+  - title: Feature C
+    
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
