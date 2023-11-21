@@ -16,7 +16,8 @@
 
 <td>
 
-<img src="/src/public/img.jpg" style="zoom:50%"  alt="img"/>
+<p>Bio</p>
+
 
 </td>
 
