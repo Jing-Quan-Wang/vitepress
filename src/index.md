@@ -32,7 +32,7 @@ features:
   
   - title: Contact
     
-    details: Emails:
+    details: <a href="https://en.scu.edu.cn/" target="_blank">[ORCID]</a>
 
   - title: Feature B
     
