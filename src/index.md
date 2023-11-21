@@ -4,9 +4,7 @@ layout: home
 
 hero:
   name: 'Jing-Quan Wang'
-  tagline: Ph.D. candidate
-  tagline: Sichuan University
-  tagline: Email henrywang_scu@foxmail.com
+  tagline: Ph.D. candidate in Sichuan University
 
 
   image: /img.jpg
