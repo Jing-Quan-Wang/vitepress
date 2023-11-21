@@ -42,7 +42,7 @@
 <li><p style="text-align:justify; text-justify:inter-ideograph;">**J. Wang**, C. Wang, H. Guo*, T. Ye, Y. Liu, X. Cheng, W. Li, B. Yang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420302168" target="_blank">Crucialroles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies</a>. **_Journal of Hazardous Materials_**, 391, 5, 122228 (2020) </p></li>
 
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">**J. Wang**, H. Guo*, Y. Liu, W. Li, B. Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="_blank">Peroxymonosulfate activation by porous BiFeO3 for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. **_Applied Surface Science_**, 507, 30, 145097 (2020)</p> </li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">**J. Wang**, H. Guo*, Y. Liu, W. Li, B. Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="_blank">Peroxymonosulfate activation by porous BiFeO3 for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. **_Applied Surface Science_**, 507, 30, 145097 (2020)</p></li>
 
 </ol>
 
