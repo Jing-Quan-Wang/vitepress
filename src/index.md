@@ -34,8 +34,7 @@ features:
     details: Email henrywang_scu@foxmail.com
 
   - title: Contact   
-    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a> <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ResearchGate]
-</a>
+    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a>
 
   - title: Feature C
     
