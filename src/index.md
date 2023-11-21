@@ -30,7 +30,7 @@ features:
   
 - title: Contact
     
-details: Emails:xxx 
+details: Emails
 
 - title: Feature B
     
