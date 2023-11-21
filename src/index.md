@@ -32,7 +32,7 @@ features:
   
   - title: Contact:
     
-    details: Email henrywang_scu@foxmail.com<br>eyes
+    details: Email henrywang_scu@foxmail.com
 
   - title: Contact:
     
