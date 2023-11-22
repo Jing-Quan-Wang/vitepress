@@ -61,7 +61,7 @@ features:
     details: Interests in emerging contaminants, disinfection by-products, innovative treatment technology, and high value utilization of carbon dioxide for clean water.
 
 
-    link: /Research/research
+    link: /Bio/bio
     linkText: See more
 
   - title: Publications
