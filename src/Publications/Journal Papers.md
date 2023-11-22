@@ -1,6 +1,6 @@
-# <font color=#D54941>Journal Papers</font>      
+# <font color=#0E4472>Journal Papers</font>      
 
-## <font color=#E37318>First and corresponding authorships</font>   
+## <font color=#286B9C>First and corresponding authorships</font>   
 
 <ol>
   
@@ -48,7 +48,7 @@
 
 
 
-## <font color=#E37318>Other authorships</font> 
+## <font color=#286B9C>Other authorships</font> 
 
 
 
