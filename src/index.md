@@ -82,8 +82,6 @@ features:
     link: /Publications/Journal Papers
     linkText: See more
 
-  - title: Contact   
-    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a> 
 
 
 ---
