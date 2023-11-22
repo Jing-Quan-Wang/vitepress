@@ -56,8 +56,7 @@
 
 
 
-### <font color=#5AAD91>2022</font>
-
+### 2022
 <br>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li, **J. Wang**, H. Wu, Z. Zhu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="_blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. **_Separation and Purification Technology_**, 292, 1, 120928 (2022). </p></li>
@@ -74,8 +73,8 @@
 
 
 
-### <font color=#5AAD91>2021
-</font>
+### 2021
+
 <br>
 
 
@@ -128,8 +127,7 @@
 
 
 
-### <font color=#5AAD91>2019</font>
-
+### 2019
 <br>
 
 
@@ -142,7 +140,8 @@
 
 
 
-### 2018<br>
+### 2018
+<br>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, G. Zhang, **J. Wang**, P. Tang, T. Ke, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="_blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe3O4 microspheres under visible light irradiation</a>. **_Separation and Purification Technology_**, 192, 9, 88-98 (2018). </p></li>
 
