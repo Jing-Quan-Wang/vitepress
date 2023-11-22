@@ -30,12 +30,6 @@ hero:
 
 features:
   
-  - title: Contact  
-    details: Email henrywang_scu@foxmail.com
-
-  - title: Contact   
-    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a>
-
   - title: Bio
 
     icon:
@@ -48,6 +42,27 @@ features:
 
     link: /Bio/bio
     linkText: See more
+
+  - title: Research Interests
+
+
+    icon:
+
+
+      src: https://vitejs.dev/logo-with-shadow.png
+
+
+      width: 30
+
+
+    details: emerging contaminants, disinfection by-products, innovative treatment technology, and high value utilization of carbon dioxide for clean water...
+
+
+    link: /Bio/bio
+
+    linkText: See more
+
+
 
 ---
 
