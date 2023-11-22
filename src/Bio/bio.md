@@ -1,6 +1,6 @@
 # Bio
 
-**¼Ó´Ö**¼Ó´Ö
+**strong**strong
 <p style="text-align:justify; text-justify:inter-ideograph;">**Jingquan Wang** is currently a Ph.D. student in Environmental Science and Engineering at the Sichuan University. Dr. Wang received his M.S. degree in Civil Engineering and B.S. degree in Water Supply and Drainage Engineering from Sichuan University.
 </p>
 
