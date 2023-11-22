@@ -44,7 +44,6 @@ features:
     link: /Bio/bio
 
     linkText: See more
-	
 
   - title: Research Interests
   
@@ -81,9 +80,6 @@ features:
 
     link: /Bio/bio
     linkText: See more
-
-
-
 ---
 
 
