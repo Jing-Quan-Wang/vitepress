@@ -55,10 +55,10 @@ features:
       width: 30
 
 
-    details: emerging contaminants, disinfection by-products, innovative treatment technology, and high value utilization of carbon dioxide for clean water...
+    details: Emerging contaminants, disinfection by-products, innovative treatment technology, and high value utilization of carbon dioxide for clean water...
 
 
-    link: /Bio/bio
+    link: /Research/Research
 
     linkText: See more
 
