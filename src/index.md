@@ -36,11 +36,18 @@ features:
   - title: Contact   
     details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a>
 
-  - title: Feature C
-    
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Bio
 
+    icon:
 
+      src: https://vitejs.dev/logo-with-shadow.png
+
+      width: 30
+
+    details: xxxx...
+
+    link: /Bio/bio
+    linkText: See more
 
 ---
 
