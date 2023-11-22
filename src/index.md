@@ -38,8 +38,15 @@ features:
 
   - title: Feature C
     
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    icon:
+      src: https://vitejs.dev/logo-with-shadow.png
 
+      width: 30
+
+    details: ÈÕ³£¼ÇÂ¼
+
+    link: /Bio/bio
+    linkText: Bio
 
 
 ---
