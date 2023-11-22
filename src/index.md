@@ -63,6 +63,30 @@ features:
     linkText: See more
 
 
+  - title: Publications
+
+
+
+    icon:
+
+
+
+      src: https://vitejs.dev/logo-with-shadow.png
+
+
+
+      width: 30
+
+
+
+    details: xxx...
+
+
+
+    link: /Publications/Journal Papers
+    linkText: See more
+
+
 
 ---
 
