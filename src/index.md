@@ -61,6 +61,7 @@ features:
 
 high value utilization of carbon dioxide for clean water.
 
+
     link: /Research/Research
     linkText: See more
 
@@ -83,7 +84,7 @@ high value utilization of carbon dioxide for clean water.
     linkText: See more
 
   - title: Contact   
-    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a> Email henrywang_scu@foxmail.com
+    details: <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a> 
 
 
 ---
