@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+﻿import { defineConfig } from 'vitepress'
 import { nav, sidebar } from './index'
 
 // 导出默认配置
@@ -23,6 +23,14 @@ export default defineConfig({
       detailsLabel: '详细信息'
     }
   },
+
+  // 目录设置
+
+    outline: 'deep', // 索引级别
+
+    outlineTitle: '本页目录', // 目录文本
+}}
+
 
   // 源目录
   srcDir: 'src',
