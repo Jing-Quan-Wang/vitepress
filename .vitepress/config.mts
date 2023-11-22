@@ -28,8 +28,7 @@ export default defineConfig({
 
     outline: 'deep', // 索引级别
 
-    outlineTitle: '本页目录', // 目录文本
-}}
+
 
 
   // 源目录
