@@ -140,7 +140,7 @@
 
 
 
-### 2018
+### <font color=#5AAD91>2018</font>
 <br>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, G. Zhang, **J. Wang**, P. Tang, T. Ke, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="_blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe3O4 microspheres under visible light irradiation</a>. **_Separation and Purification Technology_**, 192, 9, 88-98 (2018). </p></li>
