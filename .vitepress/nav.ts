@@ -1,9 +1,9 @@
-import type { DefaultTheme } from 'vitepress'
+﻿import type { DefaultTheme } from 'vitepress'
 // 导航栏设置
 
 export const nav: DefaultTheme.Config['nav'] = [
   { text: 'Homepage', link: '/' },
-  { text: 'Bio', items: Nav_bio(), activeMatch: '/Bio/' },
+  { text: 'Bio', link: '页面地址' },
   { text: 'Experience', items: Nav_Docs(), activeMatch: '/skill/' },
   { text: 'Research', items: Nav_Research(), activeMatch: '/Research/' },
   { text: 'Publications', items: Nav_Fe(), activeMatch: '/fe/' }
