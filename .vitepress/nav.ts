@@ -3,7 +3,7 @@
 
 export const nav: DefaultTheme.Config['nav'] = [
   { text: 'Homepage', link: '/' },
-  { text: 'Bio', link: '页面地址' },
+  { text: 'Bio', link: 'bio' },
   { text: 'Experience', items: Nav_Docs(), activeMatch: '/skill/' },
   { text: 'Research', items: Nav_Research(), activeMatch: '/Research/' },
   { text: 'Publications', items: Nav_Fe(), activeMatch: '/fe/' }
