@@ -1,6 +1,6 @@
-# <font color=#223A47>Journal Papers</font>      
+# <font color=#002E6F>Journal Papers</font>      
 
-## <font color=#416C65>First and corresponding authorships</font>   
+## <font color=#03449F>First and corresponding authorships</font>   
 
 <ol>
   
@@ -8,7 +8,7 @@
 
 
 
-### 2023    
+### <font color=#0C65C5>2023</font>     
 <br>
 <li><p style="text-align:justify; text-justify:inter-ideograph;">**J. Wang**, M. Zheng, E. Du, W. Chu, H. Guo*. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.2c06327" target="_blank">A Novel Source of Radicals from UV/Dichloroisocyanurate for Surpassing Abatement of Emerging Contaminants Versus Conventional UV/Chlor(am)ine Processes</a>. **_Environmental Science & Technology_**, (2023).</p></li> 
 
@@ -48,7 +48,7 @@
 
 
 
-## <font color=#416C65>Other authorships</font> 
+## <font color=#03449F>Other authorships</font> 
 
 
 
