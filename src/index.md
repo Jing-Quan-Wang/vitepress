@@ -6,30 +6,29 @@ layout: home
 
 
 hero:
-  
-  name: 'Jing-Quan Wang'
 
-  tagline: Ph.D. candidate in Sichuan University
+name: 'Jing-Quan Wang'
+
+tagline: Ph.D. candidate in Sichuan University
 
   image: /img.jpg
-  
+
   # actions:
-  
+
   #   - theme: brand
-  
+
   #     text: Markdown Examples
-  
+
   #     link: /markdown-examples
-  
+
   #   - theme: alt
-  
+
   #     text: API Examples
-  
+
   #     link: /api-examples
 
-
 features:
-  
+
   - title: Bio  
     icon:
       src: https://vitejs.dev/logo-with-shadow.png
