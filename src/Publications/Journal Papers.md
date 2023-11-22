@@ -48,7 +48,7 @@
 
 
 
-## <font color=#03449F>Other authorships</font> 
+## <font color=#3C7A7C>Other authorships</font> 
 
 
 
