@@ -87,29 +87,6 @@ features:
     linkText: See more
 
 
-  - title: Contact
-
-
-
-
-    icon:
-
-
-
-
-      src: https://vitejs.dev/logo-with-shadow.png
-
-
-
-
-      width: 30
-
-
-
-
-    details: Email henrywang_scu@foxmail.com
-
-
 
 ---
 
