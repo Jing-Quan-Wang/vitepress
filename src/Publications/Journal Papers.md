@@ -64,7 +64,7 @@
 
 
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">W. Li, Y. Zhang, X. Cheng, **J. Wang**, B. Yang, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586621016737" target="_blank">Amino-modified metal-organic frameworks as peroxymonosulfate catalyst for bisphenol AF decontamination: ROS generation, degradation pathways, and toxicity evaluation</a>. **_Separation and Purification Technology_**, 282£¬A£¬1 (2022). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">W. Li, Y. Zhang, X. Cheng, **J. Wang**, B. Yang, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586621016737" target="_blank">Amino-modified metal-organic frameworks as peroxymonosulfate catalyst for bisphenol AF decontamination: ROS generation, degradation pathways, and toxicity evaluation</a>. **_Separation and Purification Technology_**, 282, A, 1 (2022). </p></li>
 
 
 
