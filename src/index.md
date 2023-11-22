@@ -44,6 +44,7 @@ features:
     link: /Bio/bio
 
     linkText: See more
+	
 
   - title: Research Interests
   
@@ -57,9 +58,7 @@ features:
 
 
 
-    details: Interests in emerging contaminants, disinfection by-products, innovative treatment technology, and 
-
-high value utilization of carbon dioxide for clean water.
+    details: Interests in emerging contaminants, disinfection by-products, innovative treatment technology, and high value utilization of carbon dioxide for clean water.
 
 
     link: /Research/Research
