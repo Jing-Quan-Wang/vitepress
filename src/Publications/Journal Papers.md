@@ -21,7 +21,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">X. Chen^#^, **J. Wang^#^**, H. Wu, Z. Zhu, J. Zhou, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389423002789" target="_blank">Trade-off effect of dissolved organic matter on degradation and transformation of micropollutants: A review in water decontamination</a>. **_Journal of Hazardous Materials_**, 450, 15, 130996 (2023).</p></li>
 
-### 2022     
+### <font color=#5AAD91>2022</font>     
 <br>
 <li><p style="text-align:justify; text-justify:inter-ideograph;">**J. Wang**, M. Zheng, Y. Deng, M. Liu, Y. Chen, N. Gao, E. Du, W. Chu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135422004602" target="_blank">Generality and diversity on the kinetics, toxicity and DFT studies of sulfate radical-induced transformation of BPA and its analogues</a>. **_Water Research_**, 219, 1, 118506 (2022). </p></li>
 
@@ -32,11 +32,11 @@
 
 
 
-### 2021
+### <font color=#5AAD91>2021</font>
 <br>
 <li><p style="text-align:justify; text-justify:inter-ideograph;">**J. Wang**, W. Li, B. Yang, X. Cheng, Z. Tian, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0013935120313712" target="_blank">Impact of hydrological factors on the dynamic of COVID-19 epidemic: A multi-region study in China</a>. **_Environmental Research_**, 198, 110474 (2021) </p></li>
 
-### 2020
+### <font color=#5AAD91>2020</font>
 <br>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">**J. Wang**, C. Wang, H. Guo*, T. Ye, Y. Liu, X. Cheng, W. Li, B. Yang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420302168" target="_blank">Crucialroles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies</a>. **_Journal of Hazardous Materials_**, 391, 5, 122228 (2020) </p></li>
