@@ -2,7 +2,7 @@
 
 ## I XXXX
 
-![Interests 1](/interest1.jpeg)
+![Interests 1](/interest1.JPEG)
 <br>
 Vision: xxxxx
 - xxxxx
