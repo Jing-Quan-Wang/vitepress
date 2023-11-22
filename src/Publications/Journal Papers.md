@@ -56,7 +56,7 @@
 
 
 
-### 2022
+### <font color=#5AAD91>2022</font>
 <br>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li, **J. Wang**, H. Wu, Z. Zhu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="_blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. **_Separation and Purification Technology_**, 292, 1, 120928 (2022). </p></li>
@@ -73,7 +73,7 @@
 
 
 
-### 2021
+### <font color=#5AAD91>2021</font>
 
 <br>
 
