@@ -11,7 +11,7 @@
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li<sup>#</sup>, <b>J. Wang<sup>#</sup></b>, Y. Chu, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623029179" target="_blank">Preparation of high-value material based on CO<sub>2</sub> reduction and its catalytic application for environmental decontamination</a>. <b><i>Separation and Purification Technology</i></b>, 126009 (2023).</p></li> 
+<li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li<sup>#</sup>, <strong>J. Wang<sup>#</sup></strong>, Y. Chu, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623029179" target="_blank">Preparation of high-value material based on CO<sub>2</sub> reduction and its catalytic application for environmental decontamination</a>. <b><i>Separation and Purification Technology</i></b>, 126009 (2023).</p></li> 
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Wen<sup>#</sup>,  <b>J. Wang<sup>#</sup></b>, F. Wang, H. Wu, J. Zhou, Z. Dai, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623027697" target="_blank">Recent advances in membranes modified with plant polyphenols in wastewater treatment: A review</a>. <b><i>Separation and Purification Technology</i></b>, 125861 (2023).</p></li> 
 
@@ -29,7 +29,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, M. Zheng, Y. Deng, M. Liu, Y. Chen, N. Gao*, E. Du, W. Chu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135422004602" target="<i>blank">Generality and diversity on the kinetics, toxicity and DFT studies of sulfate radical-induced transformation of BPA and its analogues</a>. <b><i>Water Research</i></b>, 219, 118506 (2022). </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, J. Deng, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622014605" target="<i>blank">Reevaluation of radical-induced differentiation in UV-based advanced oxidation processes (UV/hydrogen peroxide, UV/peroxydisulfate, and UV/ chlorine) for metronidazole removal: Kinetics, mechanism, toxicity variation, and DFT studies</a>. <b><i>Separation and Purification Technology</i></b>, 301, 121905 (2022) </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, J. Deng, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622014605" target="<i>blank">Reevaluation of radical-induced differentiation in UV-based advanced oxidation processes (UV/hydrogen peroxide, UV/peroxydisulfate, and UV/chlorine) for metronidazole removal: Kinetics, mechanism, toxicity variation, and DFT studies</a>. <b><i>Separation and Purification Technology</i></b>, 301, 121905 (2022) </p></li>
 
 ### <font color=#5AAD91>2021</font>
 
