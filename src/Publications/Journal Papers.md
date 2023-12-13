@@ -10,9 +10,16 @@
 ### <font color=#5AAD91>2023</font>
 
 <br>
+
+<li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li<sup>#</sup>, <b>J. Wang</b>, Y. Chu, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623029179" target="_blank">Preparation of high-value material based on CO2 reduction and its catalytic application for environmental decontamination</a>. <b><i>Separation and Purification Technology</i></b>, 126009, (2023).</p></li> 
+
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Wen^#^,  <b>J. Wang</b>, F. Wang, H. Wu, J. Zhou, Z. Dai, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623027697" target="_blank">Recent advances in membranes modified with plant polyphenols in wastewater treatment: A review</a>. <b><i>Separation and Purification Technology</i></b>, 125861, (2023).</p></li> 
+
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, Zhizhuo Chai, Shuai Yang, Erdeng Du, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389423013778" target="_blank">Insights into the electron transfer regime of permanganate activation on carbon nanomaterial reduced from carbon dioxide</a>. <b><i>Journal of Hazardous Materials</i></b>, 459, 132094 (2023).</p></li> 
+
 <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, M. Zheng, E. Du, W. Chu, H. Guo*. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.2c06327" target="<i>blank">A Novel Source of Radicals from UV/Dichloroisocyanurate for Surpassing Abatement of Emerging Contaminants Versus Conventional UV/Chlor(am)ine Processes</a>. <b><i>Environmental Science & Technology</i></b>, (2023).</p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">X. Chen^#^, <b>J. Wang^#^</b>, H. Wu, Z. Zhu, J. Zhou, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389423002789" target="<i>blank">Trade-off effect of dissolved organic matter on degradation and transformation of micropollutants: A review in water decontamination</a>. <b><i>Journal of Hazardous Materials</i></b>, 450, 15, 130996 (2023).</p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">X. Chen^#^, <b>J. Wang#</b>, H. Wu, Z. Zhu, J. Zhou, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389423002789" target="<i>blank">Trade-off effect of dissolved organic matter on degradation and transformation of micropollutants: A review in water decontamination</a>. <b><i>Journal of Hazardous Materials</i></b>, 450, 15, 130996 (2023).</p></li>
 
 ### <font color=#5AAD91>2022</font>
 
