@@ -7,7 +7,7 @@
 
 <ol>
 
-### <font color=#5AAD91>2023</font>
+### <font color=#5AAD91>2023 (6)</font>
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">X. Chen<sup>#</sup>, <b>J. Wang<sup>#</sup></b>, H. Wu, Z. Zhu, J. Zhou, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389423002789" target="<i>blank">Trade-off effect of dissolved organic matter on degradation and transformation of micropollutants: A review in water decontamination</a>. <b><i>Journal of Hazardous Materials</i></b>, 450, 130996 (2023).</p></li>
 
-### <font color=#5AAD91>2022</font>
+### <font color=#5AAD91>2022 (2)</font>
 
 <br>
 
@@ -31,12 +31,12 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, J. Deng, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622014605" target="<i>blank">Reevaluation of radical-induced differentiation in UV-based advanced oxidation processes (UV/hydrogen peroxide, UV/peroxydisulfate, and UV/chlorine) for metronidazole removal: Kinetics, mechanism, toxicity variation, and DFT studies</a>. <b><i>Separation and Purification Technology</i></b>, 301, 121905 (2022) </p></li>
 
-### <font color=#5AAD91>2021</font>
+### <font color=#5AAD91>2021 (1)</font>
 
 <br>
 <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, W. Li, B. Yang, X. Cheng, Z. Tian, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0013935120313712" target="<i>blank">Impact of hydrological factors on the dynamic of COVID-19 epidemic: A multi-region study in China</a>. <b><i>Environmental Research</i></b>, 198, 110474 (2021) </p></li>
 
-### <font color=#5AAD91>2020</font>
+### <font color=#5AAD91>2020 (2)</font>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <ol>
 
-### <font color=#5AAD91>2023</font>
+### <font color=#5AAD91>2023 (2)</font>
 
 <br>
 
@@ -59,7 +59,7 @@
 <li><p style="text-align:justify; text-justify:inter-ideograph;">S. Yang, <b>J. Wang</b>, Z. Chai, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0045653523014200" target="_blank">Insights into the carbon nanotubes-mediated activation of permanganate for decontamination under high salinity</a>. <b><i>Chemosphere</i></b>, 336, 139153 (2023). </p></li>
 
 
-### <font color=#5AAD91>2022</font>
+### <font color=#5AAD91>2022 (3)</font>
 
 <br>
 
@@ -69,7 +69,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">J. Zhao, <b>J. Wang</b>, E. Du, Y. Ai, J. Liu, H. Guo*. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/ew/d2ew00322h" target="<i>blank">Water decontamination under high salinity using the TiO<sub>2</sub> NT/PbO<sub>2</sub>-Cu electrochemical oxidation system: kinetics mechanism and DFT studies</a>. <b><i>Environmental Science-Water Research & Technology</i></b>, 8, 2231-2244 (2022). </p></li>
 
-### <font color=#5AAD91>2021</font>
+### <font color=#5AAD91>2021 (5)</font>
 
 <br>
 
@@ -83,7 +83,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">N. Wang, J. Zhang, Y. Zhang, P. Zhou, <b>J. Wang</b>, Y. Liu. <a href="https://www.sciencedirect.com/science/article/pii/S0045653520321457" target="<i>blank">Heterogeneous catalytic oxidation degradation of BPAF by peroxymonosulfate active with manganic manganous oxide: Mineralization, mechanism and degradation pathways</a>. <b><i>Chemosphere</i></b>, 263, 127950 (2021). </p></li>
 
-### <font color=#5AAD91>2020</font>
+### <font color=#5AAD91>2020 (4)</font>
 
 <br>
 
@@ -95,7 +95,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">B. Yang, W. Li, <b>J. Wang</b>, Z. Tian, X. Cheng, Y. Zhang, R. Qiu, S. Hou, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0048969720348828" target="<i>blank">Estimation of the potential spread risk of COVID-19: Occurrence assessment along the Yangtze, Han, and Fu River basins in Hubei, China</a>. <b><i>Science of the Total Environment</i></b>, 746, 141353 (2020). </p></li>
 
-### <font color=#5AAD91>2019</font>
+### <font color=#5AAD91>2019 (2)</font>
 
 <br>
 
@@ -103,7 +103,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, <b>J. Wang</b>, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S0269749119305974" target="<i>blank">Fe@C carbonized resin for peroxymonosulfate activation and bisphenol S degradation</a>. <b><i>Environmental Pollution</i></b>, 252, B, 1042-1050 (2019). </p></li>
 
-### <font color=#5AAD91>2018</font>
+### <font color=#5AAD91>2018 (1)</font>
 
 <br>
 
