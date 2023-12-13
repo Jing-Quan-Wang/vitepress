@@ -1,7 +1,12 @@
 # Awards and Honors  
 
 <ol>    
-<li><p style="text-align:justify; text-justify:inter-ideograph;">  2020, 2022. <font color=#0052D9>National Scholarship</font>, China.</p></li> 
+
+<li><p style="text-align:justify; text-justify:inter-ideograph;">  2023. <font color=#0052D9>Best Academic Paper Award</font>, International Ultraviolet Association and Chinese Ultraviolet Association.</p></li> 
+
+<li><p style="text-align:justify; text-justify:inter-ideograph;">  2023. <font color=#0052D9>Student Poster Competition</font>, American Chemical Society of Southwestern China Chapter and Sichuan University of Science and Engineering.</p></li> 
+
+<li><p style="text-align:justify; text-justify:inter-ideograph;">  2020, 2022, 2023. <font color=#0052D9>National Scholarship</font>, China.</p></li> 
  
 <li><p style="text-align:justify; text-justify:inter-ideograph;">  2022. <font color=#0052D9>The second prize for National Environmental Friendly Technology Competition</font>, Northwest Region in China.</p></li>  
 
