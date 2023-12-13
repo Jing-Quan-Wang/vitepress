@@ -24,13 +24,6 @@ export default defineConfig({
     }
   },
 
-  // 目录设置
-
-    outline: 'deep', // 索引级别
-
-
-
-
   // 源目录
   srcDir: 'src',
 
@@ -50,6 +43,9 @@ export default defineConfig({
   //   }
   // },
   themeConfig: {
+    // 目录设置
+    outline: 'deep', // 索引级别
+
     // algolia搜索
     nav,
     sidebar
