@@ -21,6 +21,6 @@ cej, 2020<br>
 
 </blockquote>
 
-![Interests 1](interest1.jpg)
+![Interests 1](./interest1.jpg)
 
-<img src="interest1.jpg" alt="Interests 1">
+<img src="./interest1.jpg" alt="Interests 1">
