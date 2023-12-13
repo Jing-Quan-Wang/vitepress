@@ -11,7 +11,7 @@
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li<sup>#</sup>, <b>J. Wang<sup>#</sup></b>, Y. Chu, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623029179" target="_blank">Preparation of high-value material based on CO2 reduction and its catalytic application for environmental decontamination</a>. <b><i>Separation and Purification Technology</i></b>, 126009 (2023).</p></li> 
+<li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li<sup>#</sup>, <b>J. Wang<sup>#</sup></b>, Y. Chu, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623029179" target="_blank">Preparation of high-value material based on CO<sub>2</sub> reduction and its catalytic application for environmental decontamination</a>. <b><i>Separation and Purification Technology</i></b>, 126009 (2023).</p></li> 
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Wen<sup>#</sup>,  <b>J. Wang<sup>#</sup></b>, F. Wang, H. Wu, J. Zhou, Z. Dai, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623027697" target="_blank">Recent advances in membranes modified with plant polyphenols in wastewater treatment: A review</a>. <b><i>Separation and Purification Technology</i></b>, 125861 (2023).</p></li> 
 
