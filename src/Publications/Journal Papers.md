@@ -42,7 +42,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, C. Wang, H. Guo*, T. Ye, Y. Liu, X. Cheng, W. Li, B. Yang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420302168" target="<i>blank">Crucialroles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies</a>. <b><i>Journal of Hazardous Materials</i></b>, 391, 122228 (2020) </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, H. Guo*, Y. Liu, W. Li, B. Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="<i>blank">Peroxymonosulfate activation by porous BiFeO3 for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. <b><i>Applied Surface Science</i></b>, 507, 145097 (2020)</p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Wang</b>, H. Guo*, Y. Liu, W. Li, B. Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="<i>blank">Peroxymonosulfate activation by porous BiFeO<sub>3</sub> for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. <b><i>Applied Surface Science</i></b>, 507, 145097 (2020)</p></li>
 
 </ol>
 
@@ -67,7 +67,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">W. Li, Y. Zhang, X. Cheng, <b>J. Wang</b>, B. Yang, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586621016737" target="<i>blank">Amino-modified metal-organic frameworks as peroxymonosulfate catalyst for bisphenol AF decontamination: ROS generation, degradation pathways, and toxicity evaluation</a>. <b><i>Separation and Purification Technology</i></b>, 282, A, 119967 (2022). </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">J. Zhao, <b>J. Wang</b>, E. Du, Y. Ai, J. Liu, H. Guo*. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/ew/d2ew00322h" target="<i>blank">Water decontamination under high salinity using the TiO2 NT/PbO2-Cu electrochemical oxidation system: kinetics mechanism and DFT studies</a>. <b><i>Environmental Science-Water Research & Technology</i></b>, 8, 2231-2244 (2022). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">J. Zhao, <b>J. Wang</b>, E. Du, Y. Ai, J. Liu, H. Guo*. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/ew/d2ew00322h" target="<i>blank">Water decontamination under high salinity using the TiO<sub>2</sub> NT/PbO<sub>2</sub>-Cu electrochemical oxidation system: kinetics mechanism and DFT studies</a>. <b><i>Environmental Science-Water Research & Technology</i></b>, 8, 2231-2244 (2022). </p></li>
 
 ### <font color=#5AAD91>2021</font>
 
@@ -75,7 +75,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">B. Yang, C. Wang, X. Cheng, Y. Zhang, W. Li, <b>J. Wang</b>, Z. Tian, W. Chu, G.V. Korshin, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135421005777" target="<i>blank">Interactions between the antibiotic tetracycline and humic acid: Examination of the binding sites, and effects of complexation on the oxidation of tetracycline</a>. <b><i>Water Research</i></b>, 202, 117379 (2021). </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">B. Yang, X. Cheng, Y. Zhang, W. Li, <b>J. Wang</b>, Z. Tian, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420328442" target="<i>blank">Staged assessment for the involving mechanism of humic acid on enhancing water decontamination using H2O2-Fe(III) process</a>. <b><i>Journal of Hazardous Materials</i></b>, 407, 124853 (2021). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">B. Yang, X. Cheng, Y. Zhang, W. Li, <b>J. Wang</b>, Z. Tian, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420328442" target="<i>blank">Staged assessment for the involving mechanism of humic acid on enhancing water decontamination using H<sub>2</sub>O<sub>2</sub>-Fe(III) process</a>. <b><i>Journal of Hazardous Materials</i></b>, 407, 124853 (2021). </p></li>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">B. Yang, X. Cheng, Y. Zhang, W. Li, <b>J. Wang</b>, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S2666498421000570" target="<i>blank">Probing the roles of pH and ionic strength on electrostatic binding of tetracycline by dissolved organic matters: Reevaluation of modified fitting model</a>. <b><i>Environmental Science and Ecotechnology</i></b>, 8, 100133 (2021). </p></li>
 
@@ -107,6 +107,6 @@
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, G. Zhang, <b>J. Wang</b>, P. Tang, T. Ke, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="<i>blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe3O4 microspheres under visible light irradiation</a>. <b><i>Separation and Purification Technology</i></b>, 192, 88-98 (2018). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, G. Zhang, <b>J. Wang</b>, P. Tang, T. Ke, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="<i>blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe<sub>3</sub>O<sub>4</sub> microspheres under visible light irradiation</a>. <b><i>Separation and Purification Technology</i></b>, 192, 88-98 (2018). </p></li>
 
 </ol>
