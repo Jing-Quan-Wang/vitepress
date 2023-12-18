@@ -38,7 +38,7 @@ features:
 
       width: 30
 
-    details: <p style="text-align:justify; text-justify:inter-ideograph;">Dr. Wang is currently a Ph.D. student in Environmental Science and Engineering at the Sichuan University.</p>
+    details: Dr. Wang is currently a Ph.D. student in Environmental Science and Engineering at the Sichuan University.
 
     link: /Bio/bio
     linkText: See more
@@ -55,7 +55,7 @@ features:
       width: 30
 
 
-    details: <p style="text-align:justify; text-justify:inter-ideograph;">Emerging contaminants<br>Disinfection by-products<br>Innovative treatment technology<br>High value utilization of carbon dioxide for clean water</p>
+    details: Emerging contaminants<br>Disinfection by-products<br>Innovative treatment technology<br>High value utilization of carbon dioxide for clean water
 
 
     link: /Research/Research
@@ -79,7 +79,7 @@ features:
 
 
 
-    details: <p style="text-align:justify; text-justify:inter-ideograph;">Dr. Wang has published 28 journal papers and applied for 4 invention patents.</p>
+    details: Dr. Wang has published 28 journal papers and applied for 4 invention patents.
 
 
 
