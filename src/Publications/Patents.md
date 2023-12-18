@@ -1,6 +1,6 @@
 <ol>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">一种基于光辐照/氯代三聚氰酸去除水中污染物的方法, ZL 2021 1 1617728.5, 申请（专利权）人: 四川大学, 发明人: 郭洪光;<font face="黑体">王敬荃</font>.</p></li> 
+<li><p style="text-align:justify; text-justify:inter-ideograph;">一种基于光辐照/氯代三聚氰酸去除水中污染物的方法, ZL 2021 1 1617728.5, 申请（专利权）人: 四川大学, 发明人: 郭洪光;<b>王敬荃</b>.</p></li> 
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">一种基于纳米碳材料活化异氰脲酸盐降解水中新兴污染物的方法, CN202211459359.6, 申请（专利权）人: 四川大学, 发明人: 郭洪光;陈星玉;<font face="黑体">王敬荃</font>.</p></li> 
 
