@@ -75,7 +75,7 @@ export function Sidebar_Esxi() {
       // 分组路径
       base: '/Bio/',
       // 分组页面
-      items: [{ text: 'bio', link: 'bio' }]
+      items: [{ text: 'Bio', link: 'bio' }]
     }
   ]
 }
@@ -91,7 +91,7 @@ export function Sidebar_Esxii() {
       // 分组路径
       base: '/Contact/',
       // 分组页面
-      items: [{ text: 'contact', link: 'contact' }]
+      items: [{ text: 'Contact', link: 'contact' }]
     }
   ]
 }
