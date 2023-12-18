@@ -7,11 +7,11 @@ layout: home
 
 hero:
   
-  name: 'Jing-Quan Wang'
+  name: 'Jingquan Wang'
 
   tagline: Ph.D. candidate in Sichuan University
 
-  image: /img.jpg
+  image: 
   
   # actions:
   
