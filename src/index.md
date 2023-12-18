@@ -55,7 +55,7 @@ features:
       width: 30
 
 
-    details: Emerging contaminants, disinfection by-products, innovative treatment technology, and high value utilization of carbon dioxide for clean water...
+    details: <p style="text-align:justify; text-justify:inter-ideograph;">Emerging contaminants<br>disinfection by-products<br>innovative treatment technology<br>high value utilization of carbon dioxide for clean water.</p>
 
 
     link: /Research/Research
@@ -79,7 +79,7 @@ features:
 
 
 
-    details: xxx...
+    details: <p style="text-align:justify; text-justify:inter-ideograph;">Dr. Wang has published 28 journal papers in <i>Environmental Science & Technology, Water Research</i> and other internationally renowned journals, and applied for 4 invention patents.</p>
 
 
 
