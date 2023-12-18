@@ -9,7 +9,7 @@ hero:
   
   name: 'Jingquan Wang'
 
-  tagline: Ph.D. candidate in Sichuan University<br>Email: henrywang_scu@foxmail.com
+  tagline: 'Ph.D. candidate in Sichuan University<br>"Email: henrywang_scu@foxmail.com'
 
   image: 
   
