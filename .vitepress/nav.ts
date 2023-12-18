@@ -6,7 +6,7 @@ export const nav: DefaultTheme.Config['nav'] = [
   { text: 'Bio', link: 'Bio/bio' },
   { text: 'Experience', items: Nav_Docs(), activeMatch: '/skill/' },
   { text: 'Research', items: Nav_Research(), activeMatch: '/Research/' },
-  { text: 'Publications', items: Nav_Fe(), activeMatch: '/fe/' }
+  { text: 'Publications', items: Nav_Fe(), activeMatch: '/fe/' },
   { text: 'Contact', link: 'Contact/contact' }
 ]
 
