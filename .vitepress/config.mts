@@ -4,7 +4,7 @@ import { nav, sidebar } from './index'
 // 导出默认配置
 export default defineConfig({
   // 站点名称
-  title: 'Jing-Quan Wang',
+  title: 'Welcome to JingQuan Wang' Homepage,
 
   //'force-dark'强制开启深色模式 false强制开启浅色模式
   // appearance: 'force-dark',

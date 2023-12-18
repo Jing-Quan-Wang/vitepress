@@ -10,7 +10,10 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
   '/Publications/': { base: '/Publications/', items: Sidebar_Fe() },
 
   //
-  '/Research/': { base: '/Research/', items: Sidebar_Docker() }
+  '/Research/': { base: '/Research/', items: Sidebar_Docker() },
+ 
+ //
+  '/Contact/': { base: '/Contact/', items: Sidebar_Esxi() }
 }
 
 //
