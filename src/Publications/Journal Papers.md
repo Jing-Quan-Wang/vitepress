@@ -55,20 +55,20 @@ Bo Yang, Erdeng Du. <a href="https://www.sciencedirect.com/science/article/pii/S
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">Z. Chai, <font face="arial black">J. Wang</font>, Y. Dai, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0013935123014974" target="_blank">Synergy between UV light and trichloroisocyanuric acid on methylisothiazolinone degradation: Performance, kinetics and degradation pathway</a>. <font face="arial black"><i>Environmental Research</i></font>, 236, 116693 (2023). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Zhizhuo Chai, <font face="arial black">Jingquan Wang</font>, Yixue Dai, Erdeng Du, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0013935123014974" target="_blank">Synergy between UV light and trichloroisocyanuric acid on methylisothiazolinone degradation: Performance, kinetics and degradation pathway</a>. <font face="arial black"><i>Environmental Research</i></font>, 236, 116693 (2023). </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">S. Yang, <font face="arial black">J. Wang</font>, Z. Chai, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0045653523014200" target="_blank">Insights into the carbon nanotubes-mediated activation of permanganate for decontamination under high salinity</a>. <font face="arial black"><i>Chemosphere</i></font>, 336, 139153 (2023). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Shuai Yang, <font face="arial black">Jingquan Wang</font>, Zhizhuo Chai, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0045653523014200" target="_blank">Insights into the carbon nanotubes-mediated activation of permanganate for decontamination under high salinity</a>. <font face="arial black"><i>Chemosphere</i></font>, 336, 139153 (2023). </p></li>
 
 
 ### <font color=#5AAD91>2022 (3)</font>
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">R. Li, <font face="arial black">J. Wang</font>, H. Wu, Z. Zhu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="<i>blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 292, 120928 (2022). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Renxin Li, <font face="arial black">Jingquan Wang</font>, Han Wu, Zhuoyu Zhu, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622004853" target="<i>blank">Periodate activation for degradation of organic contaminants: Processes, performance and mechanism</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 292, 120928 (2022). </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">W. Li, Y. Zhang, X. Cheng, <font face="arial black">J. Wang</font>, B. Yang, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586621016737" target="<i>blank">Amino-modified metal-organic frameworks as peroxymonosulfate catalyst for bisphenol AF decontamination: ROS generation, degradation pathways, and toxicity evaluation</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 282, A, 119967 (2022). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Wei Li, Yongli Zhang, Xin Cheng, <font face="arial black">Jingquan Wang</font>, Bo Yang, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586621016737" target="<i>blank">Amino-modified metal-organic frameworks as peroxymonosulfate catalyst for bisphenol AF decontamination: ROS generation, degradation pathways, and toxicity evaluation</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 282, A, 119967 (2022). </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">J. Zhao, <font face="arial black">J. Wang</font>, E. Du, Y. Ai, J. Liu, H. Guo*. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/ew/d2ew00322h" target="<i>blank">Water decontamination under high salinity using the TiO<sub>2</sub> NT/PbO<sub>2</sub>-Cu electrochemical oxidation system: kinetics mechanism and DFT studies</a>. <font face="arial black"><i>Environmental Science-Water Research & Technology</i></font>, 8, 2231-2244 (2022). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Jun Zhao, <font face="arial black">Jingquan Wang</font>, Erdeng Du, Yijie Ai, Jingjing Liu, Hongguang Guo*. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/ew/d2ew00322h" target="<i>blank">Water decontamination under high salinity using the TiO<sub>2</sub> NT/PbO<sub>2</sub>-Cu electrochemical oxidation system: kinetics mechanism and DFT studies</a>. <font face="arial black"><i>Environmental Science-Water Research & Technology</i></font>, 8, 2231-2244 (2022). </p></li>
 
 ### <font color=#5AAD91>2021 (5)</font>
 
