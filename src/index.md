@@ -55,7 +55,7 @@ features:
       width: 30
 
 
-    details: <p style="text-align:justify; text-justify:inter-ideograph;">Emerging contaminants<br>disinfection by-products<br>innovative treatment technology<br>high value utilization of carbon dioxide for clean water.</p>
+    details: <p style="text-align:justify; text-justify:inter-ideograph;">Emerging contaminants, disinfection by-products, innovative treatment technology, high value utilization of carbon dioxide for clean water.</p>
 
 
     link: /Research/Research
