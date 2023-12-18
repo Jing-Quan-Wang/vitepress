@@ -27,22 +27,23 @@
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">J. Wang</font>, M. Zheng, Y. Deng, M. Liu, Y. Chen, N. Gao*, E. Du, W. Chu, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135422004602" target="<i>blank">Generality and diversity on the kinetics, toxicity and DFT studies of sulfate radical-induced transformation of BPA and its analogues</a>. <font face="arial black"><i>Water Research</i></font>, 219, 118506 (2022). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">Jingquan Wang</font>, Min Zheng, Yang Deng, Min Liu, Ying Chen, Naiyun Gao, Erdeng Du, Wenhai Chu, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135422004602" target="<i>blank">Generality and diversity on the kinetics, toxicity and DFT studies of sulfate radical-induced transformation of BPA and its analogues</a>. <font face="arial black"><i>Water Research</i></font>, 219, 118506 (2022). </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">J. Wang</font>, J. Deng, E. Du, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586622014605" target="<i>blank">Reevaluation of radical-induced differentiation in UV-based advanced oxidation processes (UV/hydrogen peroxide, UV/peroxydisulfate, and UV/chlorine) for metronidazole removal: Kinetics, mechanism, toxicity variation, and DFT studies</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 301, 121905 (2022) </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">Jingquan Wang</font>, Jing Deng, Erdeng Du, Hongguang Guo*, <a href="https://www.sciencedirect.com/science/article/pii/S1383586622014605" target="<i>blank">Reevaluation of radical-induced differentiation in UV-based advanced oxidation processes (UV/hydrogen peroxide, UV/peroxydisulfate, and UV/chlorine) for metronidazole removal: Kinetics, mechanism, toxicity variation, and DFT studies</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 301, 121905 (2022) </p></li>
 
 ### <font color=#5AAD91>2021 (1)</font>
 
 <br>
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">J. Wang</font>, W. Li, B. Yang, X. Cheng, Z. Tian, H. Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0013935120313712" target="<i>blank">Impact of hydrological factors on the dynamic of COVID-19 epidemic: A multi-region study in China</a>. <font face="arial black"><i>Environmental Research</i></font>, 198, 110474 (2021) </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">Jingquan Wang</font>, Wei Li, Bo Yang, Xin Cheng, Zixin Tian, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0013935120313712" target="<i>blank">Impact of hydrological factors on the dynamic of COVID-19 epidemic: A multi-region study in China</a>. <font face="arial black"><i>Environmental Research</i></font>, 198, 110474 (2021) </p></li>
 
 ### <font color=#5AAD91>2020 (2)</font>
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">J. Wang</font>, C. Wang, H. Guo*, T. Ye, Y. Liu, X. Cheng, W. Li, B. Yang, E. Du. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420302168" target="<i>blank">Crucialroles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies</a>. <font face="arial black"><i>Journal of Hazardous Materials</i></font>, 391, 122228 (2020) </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">Jingquan Wang</font>, Chengjin Wang, Hongguang Guo*, Tao Ye, Yang Liu, Xin Cheng, Wei Li,
+Bo Yang, Erdeng Du. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420302168" target="<i>blank">Crucial roles of oxygen and superoxide radical in bisulfite-activated persulfate oxidation of bisphenol AF: Mechanisms, kinetics and DFT studies</a>. <font face="arial black"><i>Journal of Hazardous Materials</i></font>, 391, 122228 (2020) </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">J. Wang</font>, H. Guo*, Y. Liu, W. Li, B. Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="<i>blank">Peroxymonosulfate activation by porous BiFeO<sub>3</sub> for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. <font face="arial black"><i>Applied Surface Science</i></font>, 507, 145097 (2020)</p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">Jingquan Wang</font>, Hongguang Guo*, Yang Liu, Wei Li, Bo Yang. <a href="https://www.sciencedirect.com/science/article/pii/S0169433219339145" target="<i>blank">Peroxymonosulfate activation by porous BiFeO<sub>3</sub> for the degradation of bisphenol AF: Non-radical and radical mechanism</a>. <font face="arial black"><i>Applied Surface Science</i></font>, 507, 145097 (2020)</p></li>
 
 </ol>
 
