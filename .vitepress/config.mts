@@ -50,13 +50,8 @@ export default defineConfig({
     nav,
     sidebar
   }
-   
-
-  
 })
 
    footer: {
-      // message: 'Released Under The MIT License.',
-      copyright:
-        'Copyright © 2019 - 2023 Theo . All Rights Reserved.'
+      // message: '30170056683411257'
     }
