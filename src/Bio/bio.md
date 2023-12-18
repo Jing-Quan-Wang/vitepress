@@ -1,7 +1,7 @@
 # Bio
 
 
-<p style="text-align:justify; text-justify:inter-ideograph;"><font face="arial black">Jing-Quan Wang</font> is currently a Ph.D. student in Environmental Science and Engineering at the Sichuan University. Dr. Wang received his M.S. degree in Civil Engineering and B.S. degree in Water Supply and Drainage Engineering from Sichuan University.</p>
+<p style="text-align:justify; text-justify:inter-ideograph;"><b>Jing-Quan Wang</b> is currently a Ph.D. student in Environmental Science and Engineering at the Sichuan University. Dr. Wang received his M.S. degree in Civil Engineering and B.S. degree in Water Supply and Drainage Engineering from Sichuan University.</p>
 
 
 <br>
