@@ -1,4 +1,4 @@
-# Awards and Honors  
+# <font color=#0A535C>Awards and Honors</font>
 
 <ol>    
 
