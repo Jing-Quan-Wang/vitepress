@@ -17,7 +17,7 @@
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>Jingquan Wang</b>, Zhizhuo Chai, Shuai Yang, Erdeng Du, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389423013778" target="_blank">Insights into the electron transfer regime of permanganate activation on carbon nanomaterial reduced from carbon dioxide</a>. <b><i>Journal of Hazardous Materials</i></b>, 459, 132094 (2023).</p></li> 
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>Jingquan Wang</b>, Min Zheng, Erdeng Du, Wenhai Chu, and Hongguang Guo*. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.2c06327" target="<i>blank">A Novel Source of Radicals from UV/Dichloroisocyanurate for Surpassing Abatement of Emerging Contaminants Versus Conventional UV/Chlor(am)ine Processes</a>. <font color=#FF1493><b><i>Environmental Science & Technology</i></font></b>, 57, 47, 18452-18461 (2023).</p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>Jingquan Wang</b>, Min Zheng, Erdeng Du, Wenhai Chu, and Hongguang Guo*. <a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.2c06327" target="<i>blank">A Novel Source of Radicals from UV/Dichloroisocyanurate for Surpassing Abatement of Emerging Contaminants Versus Conventional UV/Chlor(am)ine Processes</a>. <font color=#FF1493><b><i>Environmental Science & Technology</i></b></font>, 57, 47, 18452-18461 (2023).</p></li>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Xin Cheng<sup>#</sup>, <b>Jingquan Wang</b><sup>#</sup>, Bo Yang, Chengjin Wang, Wenhai Chu, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389423011925" target="_blank">Reevaluation for UV photolysis of Fe(III) inducing tetracycline abatement: Overlooked significance of complexation-assistance in environmental fates of antibiotics</a>. <b><i>Journal of Hazardous Materials</i></b>, 458, 131909 (2023).</p></li>
 
@@ -27,7 +27,7 @@
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>Jingquan Wang</b>, Min Zheng, Yang Deng, Min Liu, Ying Chen, Naiyun Gao, Erdeng Du, Wenhai Chu, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135422004602" target="<i>blank">Generality and diversity on the kinetics, toxicity and DFT studies of sulfate radical-induced transformation of BPA and its analogues</a>. <Font color=#FF1493><b><i>Water Research</i></font></b>, 219, 118506 (2022). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;"><b>Jingquan Wang</b>, Min Zheng, Yang Deng, Min Liu, Ying Chen, Naiyun Gao, Erdeng Du, Wenhai Chu, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135422004602" target="<i>blank">Generality and diversity on the kinetics, toxicity and DFT studies of sulfate radical-induced transformation of BPA and its analogues</a>. <Font color=#FF1493><b><i>Water Research</i></b></font>, 219, 118506 (2022). </p></li>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>Jingquan Wang</b>, Jing Deng, Erdeng Du, Hongguang Guo*, <a href="https://www.sciencedirect.com/science/article/pii/S1383586622014605" target="<i>blank">Reevaluation of radical-induced differentiation in UV-based advanced oxidation processes (UV/hydrogen peroxide, UV/peroxydisulfate, and UV/chlorine) for metronidazole removal: Kinetics, mechanism, toxicity variation, and DFT studies</a>. <b><i>Separation and Purification Technology</i></b>, 301, 121905 (2022) </p></li>
 
@@ -74,7 +74,7 @@ Bo Yang, Erdeng Du. <a href="https://www.sciencedirect.com/science/article/pii/S
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">Bo Yang, Chengjin Wang, Xin Cheng, Yongli Zhang, Wei Li, <b>Jingquan Wang</b>, Zixin Tian, Wenhai Chu, Gregory V Korshin, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135421005777" target="<i>blank">Interactions between the antibiotic tetracycline and humic acid: Examination of the binding sites, and effects of complexation on the oxidation of tetracycline</a>. <Font color=#FF1493><b><i>Water Research</i></font></b>, 202, 117379 (2021). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Bo Yang, Chengjin Wang, Xin Cheng, Yongli Zhang, Wei Li, <b>Jingquan Wang</b>, Zixin Tian, Wenhai Chu, Gregory V Korshin, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0043135421005777" target="<i>blank">Interactions between the antibiotic tetracycline and humic acid: Examination of the binding sites, and effects of complexation on the oxidation of tetracycline</a>. <Font color=#FF1493><b><i>Water Research</i></b></font>, 202, 117379 (2021). </p></li>
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Bo Yang, Xin Cheng, Yongli Zhang*, Wei Li, <b>Jingquan Wang</b>, Zixin Tian, Erdeng Du, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S0304389420328442" target="<i>blank">Staged assessment for the involving mechanism of humic acid on enhancing water decontamination using H<sub>2</sub>O<sub>2</sub>-Fe(III) process</a>. <b><i>Journal of Hazardous Materials</i></b>, 407, 124853 (2021). </p></li>
 
