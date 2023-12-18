@@ -27,6 +27,12 @@ export default defineConfig({
   // 源目录
   srcDir: 'src',
 
+  footer: {
+      // message: 'Released Under The MIT License.',
+      copyright:
+        'Copyright © 2019 - 2023 Theo . All Rights Reserved.'
+    }
+
   // 网站头部
 
   // 上次更新时间戳
