@@ -101,14 +101,14 @@ Shuhua Hou, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/artic
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, J. Deng, <font face="arial black">J. Wang</font>, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1385894718318035" target="<i>blank">Highly efficient removal of trimethoprim based on peroxymonosulfate activation by carbonized resin with Co doping: Performance, mechanism and degradation pathway</a>. <font face="arial black"><i>Chemical Engineering Journal</i></font>, 356, 717-726 (2019) . </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Yang Liu, Hongguang Guo*, Yongli Zhang, Xin Cheng, Peng Zhou, Jing Deng, <font face="arial black">Jingquan Wang</font>, Wei Li. <a href="https://www.sciencedirect.com/science/article/pii/S1385894718318035" target="<i>blank">Highly efficient removal of trimethoprim based on peroxymonosulfate activation by carbonized resin with Co doping: Performance, mechanism and degradation pathway</a>. <font face="arial black"><i>Chemical Engineering Journal</i></font>, 356, 717-726 (2019) . </p></li>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, <font face="arial black">J. Wang</font>, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S0269749119305974" target="<i>blank">Fe@C carbonized resin for peroxymonosulfate activation and bisphenol S degradation</a>. <font face="arial black"><i>Environmental Pollution</i></font>, 252, B, 1042-1050 (2019). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Yang Liu, Hongguang Guo*, Yongli Zhang, Xin Cheng, Peng Zhou, <font face="arial black">Jingquan Wang</font>, Wei Li. <a href="https://www.sciencedirect.com/science/article/pii/S0269749119305974" target="<i>blank">Fe@C carbonized resin for peroxymonosulfate activation and bisphenol S degradation</a>. <font face="arial black"><i>Environmental Pollution</i></font>, 252, B, 1042-1050 (2019). </p></li>
 
 ### <font color=#5AAD91>2018 (1)</font>
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">Y. Liu, H. Guo*, Y. Zhang, X. Cheng, P. Zhou, G. Zhang, <font face="arial black">J. Wang</font>, P. Tang, T. Ke, W. Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="<i>blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe<sub>3</sub>O<sub>4</sub> microspheres under visible light irradiation</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 192, 88-98 (2018). </p></li>
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Yang Liu, Hongguang Guo*, Yongli Zhang*, Xin Cheng, Peng Zhou, Gucheng Zhang, <font face="arial black">Jingquan Wang</font>, Peng Tang, Tingling Ke, Wei Li. <a href="https://www.sciencedirect.com/science/article/pii/S1383586617329271" target="<i>blank">Heterogeneous activation of persulfate for Rhodamine B degradation with 3D flower sphere-like BiOI/Fe<sub>3</sub>O<sub>4</sub> microspheres under visible light irradiation</a>. <font face="arial black"><i>Separation and Purification Technology</i></font>, 192, 88-98 (2018). </p></li>
 
 </ol>
