@@ -1,4 +1,4 @@
-import type { DefaultTheme } from 'vitepress'
+﻿import type { DefaultTheme } from 'vitepress'
 
 // 侧边栏配置
 export const sidebar: DefaultTheme.Config['sidebar'] = {
@@ -13,7 +13,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
   '/Research/': { base: '/Research/', items: Sidebar_Docker() },
  
  //
-  '/Contact/': { base: '/Contact/', items: Sidebar_Esxi() }
+  '/Contact/': { base: '/Contact/', items: Sidebar_Esxii() }
 }
 
 //
@@ -76,6 +76,22 @@ export function Sidebar_Esxi() {
       base: '/Bio/',
       // 分组页面
       items: [{ text: 'bio', link: 'bio' }]
+    }
+  ]
+}
+
+//
+export function Sidebar_Esxii() {
+  return [
+    {
+      // 分组名称
+      // text: 'ESXi 8.0安装',
+      // 下拉开关
+      // collapsed: true,
+      // 分组路径
+      base: '/Contact/',
+      // 分组页面
+      items: [{ text: 'contact', link: 'contact' }]
     }
   ]
 }
