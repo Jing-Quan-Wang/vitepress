@@ -1,6 +1,6 @@
 # <font color=#0A535C>Contact</font>
 
 
-Email: henrywang_scu@foxmail.com
+<b>Email:</b> henrywang_scu@foxmail.com
 <br>
-ORCID: https://orcid.org/0000-0002-6955-8905
+<b>Academic Profiles:</b> <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a> <a href="https://www.researchgate.net/profile/Jingquan-Wang-3" target="_blank">[ResearchGate]</a> [Resume]
