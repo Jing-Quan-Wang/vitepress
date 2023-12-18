@@ -38,7 +38,7 @@ features:
 
       width: 30
 
-    details: xxxx...
+    details: <b>Jingquan Wang</b> is currently a Ph.D. student in Environmental Science and Engineering at the Sichuan University. Dr. Wang received his M.S. degree in Civil Engineering and B.S. degree in Water Supply and Drainage Engineering from Sichuan University.
 
     link: /Bio/bio
     linkText: See more

@@ -1,5 +1,6 @@
 # <font color=#0A535C>Contact</font>
 
 
-Email£ºhenrywang_scu@foxmail.com
-ORCID£ºhttps://orcid.org/0000-0002-6955-8905
+Email: henrywang_scu@foxmail.com
+<br>
+ORCID: https://orcid.org/0000-0002-6955-8905
