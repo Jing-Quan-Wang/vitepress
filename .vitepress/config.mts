@@ -52,6 +52,14 @@ export default defineConfig({
   }
 })
 
-   footer: {
-      // message: '30170056683411257'
+  footer: {
+
+      // message: 'Released Under The MIT License.',
+
+      copyright:
+
+         
+<a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023037542号-1</a>
+
+
     }
