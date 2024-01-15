@@ -4,7 +4,7 @@ import { nav, sidebar } from './index'
 // 导出默认配置
 export default defineConfig({
   // 站点名称
-  title: 'JingquanWang的主页',
+  title: '一HomePage一',
 
   //'force-dark'强制开启深色模式 false强制开启浅色模式
   // appearance: 'force-dark',
