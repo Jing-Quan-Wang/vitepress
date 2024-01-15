@@ -93,6 +93,6 @@ features:
 
 <br/>
 <br/><br/><br/>
-<center><font size=4><a href="https://beian.miit.gov.cn/" target="_blank">Copyright 蜀ICP备2023037542号-1</a> </font></center>
+<center><font size=1><a href="https://beian.miit.gov.cn/" target="_blank">Copyright 蜀ICP备2023037542号-1</a> </font></center>
 
 
