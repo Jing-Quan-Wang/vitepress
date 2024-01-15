@@ -91,7 +91,7 @@ features:
 
 ---
 
-
-<a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023037542号-1</a>
+<br/>
+<center><a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023037542号-1</a></center>
 
 
