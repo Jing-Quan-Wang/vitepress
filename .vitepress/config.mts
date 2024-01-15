@@ -56,5 +56,5 @@ footer: {
       // message: 'Released Under The MIT License.',
       copyright:
         'Copyright 2019 - 2023 <a href=" "
-		target="_blank">Theo</a > . All Rights Reserved.'
+		target="_blank">Theo</a> . All Rights Reserved.'
     }
