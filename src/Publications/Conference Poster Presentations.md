@@ -1,2 +1,2 @@
-# <font color=#0A535C>Conference Poster Presentations</font>
+# <font color=#5565B9>Conference Poster Presentations</font>
 None
