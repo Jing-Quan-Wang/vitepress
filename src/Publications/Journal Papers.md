@@ -3,7 +3,7 @@
 
 # <font color=#5565B9>Journal Papers</font>
 
-## <font color=#85A6D7>First and corresponding authorships</font>
+## <font color=#FAAF00>First and corresponding authorships</font>
 
 <ol>
 
@@ -47,7 +47,7 @@ Bo Yang, Erdeng Du. <a href="https://www.sciencedirect.com/science/article/pii/S
 
 </ol>
 
-## <font color=#85A6D7>Other authorships</font>
+## <font color=#FAAF00>Other authorships</font>
 
 <ol>
 
