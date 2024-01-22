@@ -1,4 +1,4 @@
-# <font color=#0A535C>Contact</font>
+# <font color=#5565B9>Contact</font>
 
 
 <b>Email:</b> henrywang_scu@foxmail.com
