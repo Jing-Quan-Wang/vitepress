@@ -1,4 +1,4 @@
-# <font color=#85A6D7>Awards and Honors</font>
+# <font color=#5565B9>Awards and Honors</font>
 
 <ol>    
 

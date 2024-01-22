@@ -1,4 +1,4 @@
-# <font color=#85A6D7>Research Projects</font>
+# <font color=#5565B9>Research Projects</font>
 
 
 <br>
