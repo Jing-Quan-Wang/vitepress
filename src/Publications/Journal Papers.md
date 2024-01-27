@@ -3,7 +3,7 @@
 
 # <font color=#5565B9>Journal Papers</font>
 
-## <font color=#FAAF00>First and corresponding authorships</font>
+## <font color=#FAAF00>First and corresponding authorships (11)</font>
 
 <ol>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-<li><p style="text-align:justify; text-justify:inter-ideograph;">Renxin Li<sup>#</sup>, <b>Jingquan Wang</b><sup>#</sup>, Yinghao Chu, Erdeng Du, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623029179" target="_blank">Preparation of high-value material based on CO<sub>2</sub> reduction and its catalytic application for environmental decontamination</a>. <b><i>Separation and Purification Technology</i></b>, 126009 (2023).</p></li> 
+<li><p style="text-align:justify; text-justify:inter-ideograph;">Renxin Li<sup>#</sup>, <b>Jingquan Wang</b><sup>#</sup>, Yinghao Chu, Erdeng Du, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623029179" target="_blank">Preparation of high-value material based on CO<sub>2</sub> reduction and its catalytic application for environmental decontamination</a>. <b><i>Separation and Purification Technology</i></b>, 334, 126009 (2023).</p></li> 
 
 <li><p style="text-align:justify; text-justify:inter-ideograph;">Yuehao Wen<sup>#</sup>, <b>Jingquan Wang</b><sup>#</sup>, Fei Wang, Han Wu, Jianfei Zhou*, Zhongde Dai, Hongguang Guo*. <a href="https://www.sciencedirect.com/science/article/pii/S1383586623027697" target="_blank">Recent advances in membranes modified with plant polyphenols in wastewater treatment: A review</a>. <b><i>Separation and Purification Technology</i></b>, 334, 125861 (2023).</p></li> 
 
@@ -47,7 +47,7 @@ Bo Yang, Erdeng Du. <a href="https://www.sciencedirect.com/science/article/pii/S
 
 </ol>
 
-## <font color=#FAAF00>Other authorships</font>
+## <font color=#FAAF00>Other authorships (17)</font>
 
 <ol>
 
