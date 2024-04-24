@@ -93,4 +93,4 @@ features:
 
 <br/>
 <br/><br/><br/>
-<center> ![figure1](./figure1.png) <font size=1>  <a href="https://beian.mps.gov.cn/#/query/webSearch?code=51012202001691" rel="noreferrer" target="_blank">川公网安备51012202001691</a> </font></center>
+<center> ![figure1](./figure1.png) <img src="./figure1.png" alt="figure1"> <font size=1>  <a href="https://beian.mps.gov.cn/#/query/webSearch?code=51012202001691" rel="noreferrer" target="_blank">川公网安备51012202001691</a> </font></center>
