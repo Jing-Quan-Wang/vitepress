@@ -7,11 +7,10 @@ layout: home
 
 hero:
   
-  name: 'Jingquan Wang'
+  name: ''
 
-  tagline: 'Ph.D. candidate in Sichuan University<br><font size="3"><b>Email:</b> henrywang_scu@foxmail.com<br><b>Academic Profiles:</b> <a href="https://orcid.org/0000-0002-6955-8905" target="_blank">[ORCID]</a> <a href="https://www.researchgate.net/profile/Jingquan-Wang-3" target="_blank">[ResearchGate]</a> [Resume]</font>'
-
-  image: /img.jpg
+  
+ 
  
   
   # actions:
